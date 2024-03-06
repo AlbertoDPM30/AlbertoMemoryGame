@@ -1,0 +1,7 @@
+C:\Users\alber\OneDrive\Escritorio\Jhosnell proyecto final\AlbertoMemoryGame\AlbertoMemoryGame\obj\x86\Debug\AlbertoMemoryGame.Form1.resources
+C:\Users\alber\OneDrive\Escritorio\Jhosnell proyecto final\AlbertoMemoryGame\AlbertoMemoryGame\obj\x86\Debug\AlbertoMemoryGame.Properties.Resources.resources
+C:\Users\alber\OneDrive\Escritorio\Jhosnell proyecto final\AlbertoMemoryGame\AlbertoMemoryGame\obj\x86\Debug\AlbertoMemoryGame.csproj.GenerateResource.Cache
+C:\Users\alber\OneDrive\Escritorio\Jhosnell proyecto final\AlbertoMemoryGame\AlbertoMemoryGame\bin\Debug\AlbertoMemoryGame.exe
+C:\Users\alber\OneDrive\Escritorio\Jhosnell proyecto final\AlbertoMemoryGame\AlbertoMemoryGame\bin\Debug\AlbertoMemoryGame.pdb
+C:\Users\alber\OneDrive\Escritorio\Jhosnell proyecto final\AlbertoMemoryGame\AlbertoMemoryGame\obj\x86\Debug\AlbertoMemoryGame.exe
+C:\Users\alber\OneDrive\Escritorio\Jhosnell proyecto final\AlbertoMemoryGame\AlbertoMemoryGame\obj\x86\Debug\AlbertoMemoryGame.pdb
